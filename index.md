@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# MORES APP
 
-You can use the [editor on GitHub](https://github.com/moresapp/web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Mores is a mobile application to make collection of donations more effective.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Replace cumbersome ways to collect donations with a modern, simple solution.
 
 ### Markdown
 
